@@ -1,7 +1,7 @@
 {
   "title": "A guide to the Paradox sailboat",
   "author": "Anders Nygaard",
-  "updated": "2026-10-14",
+  "updated": "2026-10-16",
   "tracks": [
     {
       "id": "introduction",
@@ -14,8 +14,8 @@
       "id": "ch01",
       "title": "1. Matt Layden",
       "file": "audio/ch01.mp3",
-      "version": "a5fa4eee8a",
-      "seconds": 1259.3
+      "version": "54010f7970",
+      "seconds": 1259.8
     },
     {
       "id": "ch02",

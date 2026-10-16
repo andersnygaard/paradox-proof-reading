@@ -1,0 +1,168 @@
+{
+  "title": "A guide to the Paradox sailboat",
+  "author": "Anders Nygaard",
+  "updated": "2026-10-14",
+  "tracks": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "file": "audio/introduction.mp3",
+      "version": "6a56ff0a53",
+      "seconds": 231.5
+    },
+    {
+      "id": "ch01",
+      "title": "1. Matt Layden",
+      "file": "audio/ch01.mp3",
+      "version": "a5fa4eee8a",
+      "seconds": 1259.3
+    },
+    {
+      "id": "ch02",
+      "title": "2. Four boats before Paradox",
+      "file": "audio/ch02.mp3",
+      "version": "11a3690682",
+      "seconds": 956.3
+    },
+    {
+      "id": "ch03",
+      "title": "3. Paradox",
+      "file": "audio/ch03.mp3",
+      "version": "98a4a06888",
+      "seconds": 519
+    },
+    {
+      "id": "ch04",
+      "title": "4. Sven Yrvind",
+      "file": "audio/ch04.mp3",
+      "version": "45f262be3f",
+      "seconds": 932.8
+    },
+    {
+      "id": "ch05",
+      "title": "5. The 2003 Everglades Challenge",
+      "file": "audio/ch05.mp3",
+      "version": "574e66cfe0",
+      "seconds": 1272.1
+    },
+    {
+      "id": "ch06",
+      "title": "6. Smaller and smaller",
+      "file": "audio/ch06.mp3",
+      "version": "2bad39119c",
+      "seconds": 1427.5
+    },
+    {
+      "id": "ch07",
+      "title": "7. Meeting a Paradox",
+      "file": "audio/ch07.mp3",
+      "version": "a2801f1797",
+      "seconds": 1005.9
+    },
+    {
+      "id": "ch08",
+      "title": "8. What kind of boat she is",
+      "file": "audio/ch08.mp3",
+      "version": "5e296ff357",
+      "seconds": 653.2
+    },
+    {
+      "id": "ch09",
+      "title": "9. Chine runners",
+      "file": "audio/ch09.mp3",
+      "version": "919c2f581c",
+      "seconds": 2037.8
+    },
+    {
+      "id": "ch10",
+      "title": "10. Rudder",
+      "file": "audio/ch10.mp3",
+      "version": "231cbaaf08",
+      "seconds": 1054.4
+    },
+    {
+      "id": "ch11",
+      "title": "11. Mast, rig and sail",
+      "file": "audio/ch11.mp3",
+      "version": "240d949909",
+      "seconds": 1419.2
+    },
+    {
+      "id": "ch12",
+      "title": "12. Ballast and self-righting",
+      "file": "audio/ch12.mp3",
+      "version": "3dac22a476",
+      "seconds": 1185.5
+    },
+    {
+      "id": "ch13",
+      "title": "13. Vent trunk",
+      "file": "audio/ch13.mp3",
+      "version": "01fa819f6b",
+      "seconds": 462.9
+    },
+    {
+      "id": "ch14",
+      "title": "14. Building a Paradox",
+      "file": "audio/ch14.mp3",
+      "version": "2d413a2d49",
+      "seconds": 2019.3
+    },
+    {
+      "id": "ch15",
+      "title": "15. Sailing and living aboard",
+      "file": "audio/ch15.mp3",
+      "version": "f510ac6a09",
+      "seconds": 2049.5
+    },
+    {
+      "id": "ch16",
+      "title": "16. What Paradoxes have done",
+      "file": "audio/ch16.mp3",
+      "version": "8db6261f30",
+      "seconds": 1646
+    },
+    {
+      "id": "ch17",
+      "title": "17. Boats and the people who built them",
+      "file": "audio/ch17.mp3",
+      "version": "8d6d1a66d0",
+      "seconds": 2453.1
+    },
+    {
+      "id": "ch18",
+      "title": "18. Changing the boat",
+      "file": "audio/ch18.mp3",
+      "version": "9642b4b9fd",
+      "seconds": 2122.2
+    },
+    {
+      "id": "ch19",
+      "title": "19. How the design survived without a company",
+      "file": "audio/ch19.mp3",
+      "version": "9c3b06e5b0",
+      "seconds": 678.1
+    },
+    {
+      "id": "epilogue",
+      "title": "Epilogue: Building one today",
+      "file": "audio/epilogue.mp3",
+      "version": "8c19f447ea",
+      "seconds": 960
+    },
+    {
+      "id": "appendix-d",
+      "title": "Appendix D. In Layden's own words",
+      "file": "audio/appendix-d.mp3",
+      "version": "70e5fd317c",
+      "seconds": 2988.4
+    },
+    {
+      "id": "appendix-e",
+      "title": "Appendix E. Sources and method",
+      "file": "audio/appendix-e.mp3",
+      "version": "3bb0158594",
+      "seconds": 1124.8
+    }
+  ]
+}

@@ -112,3 +112,6 @@ footer { padding-bottom: 2.5rem; font-family: var(--sans); }
 .toc li.done .state { color: var(--accent); }
 .toc li.started .state { color: var(--accent); }
 .index .colophon { margin-top: 2.5rem; }
+
+/* webamp.html: Webamp centres its windows in this box (main window 116 px over a playlist of 348 px) */
+#webamp-app { position: relative; height: 500px; margin: 0.5rem 0 3rem; }

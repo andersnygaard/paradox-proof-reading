@@ -3,8 +3,8 @@
   "short_name": "Paradox",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#f6f3ec",
-  "theme_color": "#f6f3ec",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
   "icons": [
     { "src": "cover-192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "cover-512.png", "sizes": "512x512", "type": "image/png" }

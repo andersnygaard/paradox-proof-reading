@@ -1,28 +1,17 @@
-/* style.css: the web edition's one stylesheet. Light and dark follow the phone's setting. */
+/* style.css: the web edition's one stylesheet. Always white, like the paper of the book's ink drawings
+   (owner's rule 2026-10-19), so there is no dark mode. */
 :root {
-  --bg: #f6f3ec;
-  --fg: #24221f;
-  --muted: #6c675e;
-  --line: #dcd5c8;
-  --soft: #ece7dc;
+  --bg: #ffffff;
+  --fg: #222222;
+  --muted: #66645f;
+  --line: #e2e1de;
+  --soft: #f3f3f1;
   --accent: #b5412a;
   --on-accent: #ffffff;
-  --bar: rgba(246, 243, 236, 0.97);
+  --bar: rgba(255, 255, 255, 0.97);
   --serif: Charter, "Bitstream Charter", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  color-scheme: light dark;
-}
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #16181a;
-    --fg: #e6e2da;
-    --muted: #a19c93;
-    --line: #33373a;
-    --soft: #212427;
-    --accent: #e8735a;
-    --on-accent: #16181a;
-    --bar: rgba(22, 24, 26, 0.97);
-  }
+  color-scheme: light;
 }
 
 * { box-sizing: border-box; }
@@ -95,7 +84,12 @@ footer { padding-bottom: 2.5rem; font-family: var(--sans); }
 
 /* overview */
 .hero { text-align: center; padding-top: 1rem; }
-.hero img { width: 100%; height: auto; max-width: 30rem; border-radius: 10px; background: #fff; }
+.hero img { width: 100%; height: auto; max-width: 34rem; }
+
+/* chapter illustrations: ink drawings on white paper, set under the chapter title */
+.illustration { margin: 1rem 0 1.8rem; }
+.illustration img { display: block; width: 100%; height: auto; }
+.illustration figcaption { margin-top: 0.2rem; text-align: center; font: italic 0.9rem/1.4 var(--serif); color: var(--muted); }
 .hero h1 { margin: 1.2rem 0 0.4rem; }
 .byline { font-size: 1.15rem; margin: 0; }
 .edition { color: var(--muted); font-size: 0.95rem; }
